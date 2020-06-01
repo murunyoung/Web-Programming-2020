@@ -1,0 +1,40 @@
+.dim{
+	color: white;
+}
+
+table {
+    width: 50%;
+    text-align: center;
+    
+  }
+  
+.usual{
+    height: 30px;
+    background-color: #ffcccb;
+   
+}
+
+.header {
+    height: 50px;
+    background-color: #d50000;
+    font-size: 30px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+  
+  }
+.back{
+    color: #ffffff;
+    font-size: 30px;
+    border-radius: 25px 0px 0px 25px;
+}
+
+.next{
+    color: #ffffff;
+    font-size: 30px;
+    border-radius: 0px 25px 25px 0px;
+}
+
+.week{
+    background-color: #ff5131;
+    border-radius: 30px;
+}
